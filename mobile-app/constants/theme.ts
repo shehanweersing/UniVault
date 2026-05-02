@@ -1,17 +1,17 @@
 // App-wide colour palette & shared styles
 export const Colors = {
-  primary:    '#C0392B',   // Avurudu Crimson Red
-  secondary:  '#E67E22',   // Avurudu Deep Orange
-  background: '#120A08',   // Deep warm dark background
-  surface:    '#1F110D',   // Warm surface / card
-  surfaceAlt: '#2A1813',   // Slightly lighter warm surface
-  border:     '#3F251E',   // Warm border
-  text:       '#FFFFFE',   // Primary text
-  textMuted:  '#D4C1BC',   // Muted warm text
-  success:    '#27AE60',   // Avurudu Auspicious Green
-  warning:    '#F39C12',   // Avurudu Golden Yellow
-  error:      '#C0392B',   // Crimson Red
-  star:       '#F39C12',   // Avurudu Golden Yellow
+  primary:    '#007AFF',   // iOS Blue
+  secondary:  '#5856D6',   // iOS Purple
+  background: '#FFFFFF',   // White background
+  surface:    '#F2F2F7',   // Light gray surface / card
+  surfaceAlt: '#E5E5EA',   // Slightly darker light surface
+  border:     '#C7C7CC',   // Light border
+  text:       '#000000',   // Primary text
+  textMuted:  '#8E8E93',   // Muted text
+  success:    '#34C759',   // Green
+  warning:    '#FF9500',   // Orange
+  error:      '#FF3B30',   // Red
+  star:       '#FFCC00',   // Yellow
 };
 
 export const FontSizes = {
